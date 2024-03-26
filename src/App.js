@@ -23,7 +23,6 @@ const App = () => {
         </Typography>
         <img className={classes.image} src={download} alt="logo" height="60"  />
       </AppBar>
-      
       <Grow in>
         <Container>
                  <Grid className={classes.mainContainer} container justifyContent="space-between" alignItems="stretch" spacing={3}>
